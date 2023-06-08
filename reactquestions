@@ -1,0 +1,24 @@
+
+For the stable version of hooks (React Version 16.8.0+)
+
+For componentDidMount
+
+useEffect(() => {
+  // Your code here
+}, []);
+For componentDidUpdate
+
+useEffect(() => {
+  // Your code here
+}, [yourDependency]);
+For componentWillUnmount
+
+useEffect(() => {
+  // componentWillUnmount
+  return () => {
+     // Your code here
+  }
+}, [yourDependency]);
+
+
+we can use multiple use effects in react
