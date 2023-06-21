@@ -1,3 +1,16 @@
+export default const x() - function component - default export
+
+// default export
+import x from ''
+
+export const y() - function component - named export
+
+// named export
+
+import { y } from '' -> 
+
+
+
 
 For the stable version of hooks (React Version 16.8.0+)
 
