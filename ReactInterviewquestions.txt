@@ -13,6 +13,14 @@ custom hooks
 HOC
 
 machine coding
+timer
+min to secs timer => 01:00 to 00:00 => start stop pause
+randomly change the values true or false
+basic forms with redux patern
+usedebounce
+
+
+
 fiber architecture
 
 difference btween classwillmount and did mount? how to acheive these two in function components
@@ -20,3 +28,7 @@ difference btween classwillmount and did mount? how to acheive these two in func
 without refresh how to get latest value from api in react
 
 caching in react
+
+In browser injected dom is real or virtual dom
+
+
