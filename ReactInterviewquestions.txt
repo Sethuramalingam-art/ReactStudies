@@ -1,0 +1,22 @@
+Synthetic events
+portals
+renderdom methods
+render methods
+redirect
+renderprops
+events in react
+
+redux design pattern
+design patterns
+
+custom hooks
+HOC
+
+machine coding
+fiber architecture
+
+difference btween classwillmount and did mount? how to acheive these two in function components
+
+without refresh how to get latest value from api in react
+
+caching in react
